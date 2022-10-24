@@ -1,0 +1,94 @@
+﻿Country,GDP per capita,Birth Rate,Death Rate,Continent,Status,Infant Mortality rate
+Afghanistan,586.00,31.2,6.2,Asia,Developing,46.4
+Albania,5323.00,11.5,8.3,Europe,Developing,8.6
+Algeria,3940.00,22.8,4.7,Africa,Developing,20
+Argentina,9890.00,16.6,7.6,South America,Developing,8.1
+Armenia,4605.00,13.3,9.8,Asia,Developing,10.2
+Australia,54464.00,11.5,6.3,Oceania,Advance,3.2
+Austria,50247.00,9.4,10.3,Europe,Advance,2.9
+Azerbaijan,4814.00,12.5,7.5,Asia,Advance,18.2
+Bahrain,25930.00,13.3,2.4,Asia,Developing,5.9
+Bangladesh,1855.00,17.5,5.5,Asia,Developing,25.5
+Belgium,46542.00,9.9,11,Europe,Advance,3.4
+Brazil,8932.00,13.5,6.6,South America,Developing,13.3
+Bulgaria,9863.00,8.5,18,Europe,Developing,5.5
+Cambodia,1713.00,21.6,6,Asia,Developing,22.9
+Cameroon,1502.00,34.4,8.9,Africa,Developing,49.9
+Canada,46400.00,9.4,8.1,North America,Advance,4.4
+Chad,686.00,41.2,11.7,Africa,Developing,69
+Chile,14616.00,12,6.3,South America,Developing,6
+China,10243.00,8.5,7.1,Asia,Developing,5.9
+Colombia,6419.00,14.4,5.7,South America,Developing,11.7
+Costa Rica,12599.00,13.4,5.2,North America,Developing,7.2
+Croatia,14936.00,8.9,14.1,Europe,Advance,3.9
+Denmark,60300.00,10.4,9.4,Europe,Advance,3.2
+Ecuador,6261.00,19.2,5.1,South America,Developing,11.6
+El Salvador,4187.00,17.8,7.1,North America,Developing,11.5
+Equatorial Guinea,8106.00,32.3,8.9,Africa,Developing,60
+Estonia,23720.00,9.9,11.9,Europe,Advance,1.8
+Ethiopia,968.00,31.4,6.3,Africa,Developing,36.6
+Fiji,6144.00,20.6,8.3,Oceania,Developing,22.6
+Finland,48749.00,8.4,10,Europe,Advance,1.9
+France,41811.00,10.9,9.9,Europe,Advance,3.4
+Georgia,4694.00,12.9,12.7,Asia,Developing,8.4
+Germany,46473.00,9.3,11.9,Europe,Advance,3.2
+Ghana,2221.00,28.6,7.1,Africa,Developing,34
+Greece,19147.00,7.9,12.2,Europe,Advance,3.7
+Haiti,1273.00,23.6,8.4,North America,Developing,47.8
+Hungary,16726.00,9.6,14.5,Europe,Advance,3.4
+Iceland,69572.00,12.3,6.3,Europe,Advance,1.6
+India,2099.00,17.4,7.3,Asia,Developing,28.3
+Indonesia,4196.00,17.4,6.6,Asia,Developing,20.2
+Iraq,5687.00,28.1,4.7,Asia,Developing,22
+Ireland,80482.00,11.2,6.4,Europe,Advance,2.7
+Israel,43603.00,19.2,5.3,Asia,Advance,3
+Italy,33220.00,6.8,12.6,Europe,Advance,2.6
+Jamaica,5782.00,15.7,7.6,North America,Developing,11.8
+Japan,40802.00,6.8,11.1,Asia,Advance,1.8
+Kazakhstan,9750.00,22.8,8.6,Asia,Developing,9
+Kenya,2004.00,27.9,5.3,Africa,Developing,32
+Kuwait,28339.00,12.6,2.9,Asia,Developing,7.5
+Latvia,17739.00,9.2,15.2,Europe,Advance,3.5
+Lithuania,19553.00,9,15.6,Europe,Advance,2.9
+Luxembourg,115839.00,10.2,7.3,Europe,Advance,2.3
+Malaysia,11213.00,16.4,5.3,Asia,Developing,7.3
+Maldives,15149.00,13.1,2.7,Asia,Developing,6
+Malta,30833.00,8.6,7.9,Europe,Advance,5.7
+Mauritius,11090.00,10.6,8.7,Africa,Developing,14.3
+Mexico,10024.00,17,6.2,North America,Developing,12.2
+Mongolia,4245.00,22.6,6.4,Asia,Developing,13.8
+Montenegro,8903.00,11.4,11.7,Europe,Developing,2.1
+Morocco,3364.00,18.1,5.1,Africa,Developing,16.7
+Myanmar,1302.00,17.2,8.3,Asia,Developing,36.1
+Nepal,1201.00,19.3,6.3,Asia,Developing,24.5
+Netherlands,52491.00,9.7,9.7,Europe,Advance,3.5
+New Zealand,42166.00,11.3,6.4,Oceania,Advance,4.1
+Nigeria,2230.00,37,11.4,Africa,Developing,74
+Norway,75700.00,9.8,7.5,Europe,Advance,1.9
+Oman,16529.00,17.8,2.4,Asia,Developing,9.5
+Pakistan,1349.00,27.4,6.8,Asia,Developing,55.7
+Peru,6958.00,17.5,5.7,South America,Developing,10.3
+Philippines,3512.00,19.9,6,Asia,Developing,21.5
+Poland,15689.00,9.4,12.6,Europe,Developing,3.8
+Portugal,23287.00,8.2,12,Europe,Advance,2.8
+Qatar,62919.00,9.2,1.3,Asia,Developing,5.3
+Romania,12867.00,9.2,15.4,Europe,Developing,5.8
+Saudi Arabia,23266.00,16.8,3.5,Asia,Developing,6.3
+Senegal,1430.00,33.4,5.5,Africa,Developing,29.8
+Serbia,7392.00,8.9,16.9,Europe,Developing,4.9
+Singapore,65641.00,8.5,5.2,Asia,Advance,2
+South Africa,5978.00,19.8,9.4,Africa,Developing,26.3
+Spain,29586.00,7.1,10.4,Europe,Advance,2.7
+Sri Lanka,3852.00,15.3,6.9,Asia,Developing,6.2
+Sudan,777.00,31.5,7,Africa,Developing,41
+Sweden,51443.00,10.9,9.5,Europe,Advance,2.2
+Switzerland,85686.00,9.9,8.8,Europe,Advance,3.6
+Thailand,7815.00,10,7.9,Asia,Developing,7.7
+Timor-Leste,1561.00,29,5.9,Africa,Developing,37.7
+Ukraine,3688.00,7.8,15.9,Europe,Developing,7.2
+United Arab Emirates,39180.00,10.1,1.6,Asia,Advance,5.8
+United Kingdom,42417.00,10.2,10.4,Europe,Advance,3.7
+United States,65254.00,10.9,10.3,North America,Advance,5.5
+Vietnam,3415.00,16.1,6.4,Asia,Developing,16.9
+Zambia,1272.00,35.4,6.2,Africa,Developing,42.9
+Zimbabwe,1293.00,29,7.7,Africa,Developing,38.1
